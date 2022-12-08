@@ -1,0 +1,4 @@
+﻿  Working_with_files.cpp
+c:\users\сергей\source\repos\spisok\working_with_files\working_with_files.cpp(149): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\сергей\source\repos\spisok\working_with_files\working_with_files.cpp(207): warning C4018: <: несоответствие типов со знаком и без знака
+  Working_with_files.vcxproj -> C:\Users\Сергей\source\repos\Spisok\Debug\Working_with_files.exe
