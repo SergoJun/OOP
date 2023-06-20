@@ -1,2 +1,0 @@
-﻿Source.obj : error LNK2005: main уже определен в 111.obj
-C:\Users\Jyliy\source\repos\OOP\x64\Debug\OOP.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
