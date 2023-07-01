@@ -488,7 +488,7 @@ int main()
 
 	//Conteiner<int> test{ a.skills };
 
-		//копирование по сылке
+	
 	//Conteiner<std::string> l{ a.skills };
 	//std::cout << "\n" << "-------111------" << "\n" << a.skills[0] << "\n" << a.skills[1] << "\n" << l[0] << "\n" << l[1];
 	//a.skills[1] = "думать";
